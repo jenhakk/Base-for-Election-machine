@@ -51,6 +51,7 @@
     }
 
 
+   
     /*Row for "Browse Candidates" and "Answer Questions" boxes*/
     .row1 {
 
@@ -79,6 +80,18 @@
         color: white;
 
     }
+
+    a:link {
+
+        text-decoration: none;
+        color: black;
+    }
+
+    a:visited {
+
+        color: black;
+    }
+
 
 }
     /*Max screen size 1920px*/
