@@ -141,7 +141,7 @@
     }
 
 
-    /*************CANDIDATE NUMBER PAGE***************/
+    /*************CANDIDATE LOGIN PAGE***************/
 
     /*Header 2 settings*/
     #enter {
@@ -437,13 +437,12 @@
 
     }
 
-    /*****************************PROFILE PAGE************************/
+    /*****************************CANDIDATE PAGE************************/
 
     /*Profilepic*/
     .profile_cand {
 
         background-color: white;
-        
         left: -40px;
         height:300px;
         width: 300px;
@@ -505,6 +504,11 @@
         font-size: 20px;
     }
 
+    .pin {
+
+        height: 20px;
+        position: relative;
+    }
     .party {
 
        
