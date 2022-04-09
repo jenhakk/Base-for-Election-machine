@@ -731,7 +731,17 @@ p.candnum {
     
 }
    
-   
+/**********************ERROR PAGE 404******************************/
+
+#error .error_main {
+
+
+    background-image: url("/pics/minioncandidate.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 45vw;
+
+}
 
 
 }
