@@ -345,16 +345,23 @@
     }
 
     .question {
-
-        margin-left: 150px;
-        margin-bottom: 1px;
-    }
-    #ques-card {
+		
+		margin-bottom: 1px;
+	}
+	#questioncard {
+		position: relative;
+		left: 150px;
+		width: 80%;
+		padding: 5px;
+	}
+	
+	#comment {
 
         position: relative;
-        left: 150px;
-        width: 80%;
+        width:100%;
+        height: 90px;
         padding: 5px;
+
     }
     
 
